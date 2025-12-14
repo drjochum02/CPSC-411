@@ -2,7 +2,7 @@
 //  Persistence.swift
 //  PickForMe
 //
-//  Created by csuftitan on 12/9/25.
+//  Created by Daniel Jochum on 12/9/25.
 //
 
 import CoreData
