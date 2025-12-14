@@ -2,7 +2,7 @@
 //  WheelView.swift
 //  PickForMe
 //
-//  Created by csuftitan on 12/10/25.
+//  Created by Daniel Jochum on 12/10/25.
 //
 
 import SwiftUI
